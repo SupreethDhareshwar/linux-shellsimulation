@@ -1,0 +1,33 @@
+{
+  "name": "react-mongodb",
+  "version": "1.0.0",
+  "description": "A simple starter kit to integrate react from frontend with nodejs-mongoDb in backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SupreethDhareshwar/react-mongodb.git"
+  },
+  "keywords": [
+    "React",
+    "MongoDb",
+    "NodeJS"
+  ],
+  "author": "SupreethD",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SupreethDhareshwar/react-mongodb/issues"
+  },
+  "homepage": "https://github.com/SupreethDhareshwar/react-mongodb#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "14.1.0",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-plugin-jsx-a11y": "4.0.0",
+    "eslint-plugin-react": "6.9.0"
+  }
+}
